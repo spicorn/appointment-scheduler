@@ -4,8 +4,6 @@ Description
 
 Basic React web app for scheduling appointments. Minimal styling, no external libraries used besides create-react-app and react-gh-pages.
 
-View the live site at: https://jamisoncozart.github.io/appointment-scheduler
-
 Setup/Installation Requirements
 
 Requirements:
@@ -17,7 +15,7 @@ Requirements:
     Open up your CLI and navigate to the folder you want the project files in
     Clone this repository via Terminal using the following commands:
 
-git clone https://github.com/jamisoncozart/appointment-scheduler
+git clone https://github.com/spicorn/appointment-scheduler
 cd appointment-scheduler
 
     Install all project dependencies using the command: npm i
