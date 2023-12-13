@@ -4,6 +4,8 @@ Description
 
 Basic React web app for scheduling appointments. Minimal styling, no external libraries used besides create-react-app and react-gh-pages.
 
+![Screenshot from 2023-12-13 08-36-05](https://github.com/spicorn/appointment-scheduler/assets/70059622/4083a1d9-ba89-42ca-8cfe-4f21fb9fd7b2)
+
 Setup/Installation Requirements
 
 Requirements:
