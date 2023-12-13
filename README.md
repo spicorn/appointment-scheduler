@@ -16,6 +16,8 @@ Requirements:
     Clone this repository via Terminal using the following commands:
 
 git clone https://github.com/spicorn/appointment-scheduler
+
+
 cd appointment-scheduler
 
     Install all project dependencies using the command: npm i
